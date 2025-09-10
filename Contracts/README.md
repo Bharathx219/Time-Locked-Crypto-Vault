@@ -70,3 +70,10 @@ Our vision is to revolutionize personal financial management through blockchain 
 ---
 
 *Built with security, transparency, and user empowerment at its core.*
+
+
+
+
+Contracts:
+<img width="1891" height="913" alt="image" src="https://github.com/user-attachments/assets/f113120e-aa2f-45c2-9550-b63209aab2f0" />
+
